@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterJugAPI", "WaterJugAPI\WaterJugAPI.csproj", "{55E612DF-12D9-4240-80BC-185669CAA0C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterJugAPI.Core", "WaterJugAPI.Core\WaterJugAPI.Core.csproj", "{2FD52839-8BD0-426A-9C78-039B72F68AEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterJugAPI.Services", "WaterJugAPI.Services\WaterJugAPI.Services.csproj", "{A6DED7C7-BE2C-4A9E-B4F0-21E592A54F16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterJugAPI.Infrastructure", "WaterJugAPI.Infrastructure\WaterJugAPI.Infrastructure.csproj", "{6D3B0ACF-B22B-4360-A4D9-8F78E0F3465A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterJugAPI.Tests", "WaterJugAPI.Tests\WaterJugAPI.Tests.csproj", "{4D8B17BC-BB45-4D20-8431-A43557D75712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E612DF-12D9-4240-80BC-185669CAA0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E612DF-12D9-4240-80BC-185669CAA0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E612DF-12D9-4240-80BC-185669CAA0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E612DF-12D9-4240-80BC-185669CAA0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD52839-8BD0-426A-9C78-039B72F68AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD52839-8BD0-426A-9C78-039B72F68AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD52839-8BD0-426A-9C78-039B72F68AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD52839-8BD0-426A-9C78-039B72F68AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DED7C7-BE2C-4A9E-B4F0-21E592A54F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DED7C7-BE2C-4A9E-B4F0-21E592A54F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DED7C7-BE2C-4A9E-B4F0-21E592A54F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DED7C7-BE2C-4A9E-B4F0-21E592A54F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3B0ACF-B22B-4360-A4D9-8F78E0F3465A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3B0ACF-B22B-4360-A4D9-8F78E0F3465A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3B0ACF-B22B-4360-A4D9-8F78E0F3465A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3B0ACF-B22B-4360-A4D9-8F78E0F3465A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8B17BC-BB45-4D20-8431-A43557D75712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8B17BC-BB45-4D20-8431-A43557D75712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8B17BC-BB45-4D20-8431-A43557D75712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8B17BC-BB45-4D20-8431-A43557D75712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D59917E8-9BF0-4120-A82E-128FF7408887}
+	EndGlobalSection
+EndGlobal
